@@ -106,7 +106,7 @@ Example:
 
 ```md
 ![Hero Section](images/hero.png)
-![Projects Section](images/projects.png)
+![Projects Section](images/projects.png) 
 ```
 
 ---
