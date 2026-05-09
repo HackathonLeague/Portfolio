@@ -100,8 +100,6 @@ https://github.com/HackathonLeague/Portfolio
 
 ## Screenshots
 
-Add screenshots of your website here.
-
 Example:
 
 ```md
