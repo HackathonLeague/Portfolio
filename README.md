@@ -102,10 +102,8 @@ https://github.com/HackathonLeague/Portfolio
 
 Example:
 
-```md
 ![Hero Section](images/hero.png)
 ![Projects Section](images/projects.png) 
-```
 
 ---
 
