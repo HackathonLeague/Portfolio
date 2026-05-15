@@ -123,4 +123,5 @@ Open `index.html` in browser or use Live Server.
 
 This project was created as a personal portfolio website to present programming achievements, hackathon activities and technical skills in a modern and visually appealing format.
 
-Author - Baimyrzaev Aruubek
+Author [Baimyrzaev Aruubek]
+Contact me : baymyrzaevaruubek10@gmail.com
